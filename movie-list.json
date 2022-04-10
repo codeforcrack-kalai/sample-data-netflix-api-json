@@ -5,53 +5,53 @@
       "videos": [
         {
           "title": " Vikings: Valhalla",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com//codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "Follow-up series to 'Vikings' set 100 years afterward and centering on the adventures of Leif Erikson, Freydis, Harald Hardrada and the Norman King William the Conqueror.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Inventing Anna (2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "A journalist with a lot to prove investigates the case of Anna Delvey, the Instagram-legendary German heiress who stole the hearts of New York's social scene - and stole their money as well.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Peaky Blinders (2013–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_2.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_2.png",
           "discription": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "The Walking Dead (2010–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_3.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_3.png",
           "discription": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Vikings (2013–2020)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_4.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_4.png",
           "discription": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         }
       ]
     },
@@ -60,53 +60,53 @@
        "videos": [
         {
           "title": " Vikings: Valhalla",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "Follow-up series to 'Vikings' set 100 years afterward and centering on the adventures of Leif Erikson, Freydis, Harald Hardrada and the Norman King William the Conqueror.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Inventing Anna (2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "A journalist with a lot to prove investigates the case of Anna Delvey, the Instagram-legendary German heiress who stole the hearts of New York's social scene - and stole their money as well.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Peaky Blinders (2013–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_2.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_2.png",
           "discription": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "The Walking Dead (2010–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_3.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_3.png",
           "discription": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Vikings (2013–2020)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_4.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_4.png",
           "discription": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         }
       ]
     },
@@ -115,53 +115,53 @@
      "videos": [
         {
           "title": " Vikings: Valhalla",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "Follow-up series to 'Vikings' set 100 years afterward and centering on the adventures of Leif Erikson, Freydis, Harald Hardrada and the Norman King William the Conqueror.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Inventing Anna (2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "A journalist with a lot to prove investigates the case of Anna Delvey, the Instagram-legendary German heiress who stole the hearts of New York's social scene - and stole their money as well.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Peaky Blinders (2013–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_2.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_2.png",
           "discription": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "The Walking Dead (2010–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_3.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_3.png",
           "discription": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Vikings (2013–2020)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_4.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_4.png",
           "discription": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         }
       ]
     },
@@ -170,53 +170,53 @@
      "videos": [
         {
           "title": " Vikings: Valhalla",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "Follow-up series to 'Vikings' set 100 years afterward and centering on the adventures of Leif Erikson, Freydis, Harald Hardrada and the Norman King William the Conqueror.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Inventing Anna (2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_1.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_1.png",
           "discription": "A journalist with a lot to prove investigates the case of Anna Delvey, the Instagram-legendary German heiress who stole the hearts of New York's social scene - and stole their money as well.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Peaky Blinders (2013–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_2.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_2.png",
           "discription": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "The Walking Dead (2010–2022)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_3.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_3.png",
           "discription": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         },
         {
           "title": "Vikings (2013–2020)",
-          "image": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/images/img_4.png",
+          "image": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/images/img_4.png",
           "discription": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
           "genre": [
             "Action",
             "Advanture"
           ],
-          "video_url": "https://github.com/codeforcrack-kalai/sample-data-netflix-api-json/blob/main/videos/video_1.mp4"
+          "video_url": "https://raw.githubusercontent.com/codeforcrack-kalai/sample-data-netflix-api-json/main/videos/video_1.mp4"
         }
       ]
     }
